@@ -5,4 +5,5 @@
 //}
 var calc = require("./calculation.js")
 console.log("sum is " + calc.sum(2,5));
-console.log("subtract is " + calc.subtract(5,1));
+console.log("subtract is " + calc.subtract(5, 1));
+console.log("Multiply is " + calc.multiply(5, 10));
